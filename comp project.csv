@@ -1,0 +1,11 @@
+"Two bags A and B contain 4 white, 3 black balls and 2 white, 2 black balls respectively. From bag A two balls are transferred to bag B. Find the probability of drawing . (i) 2 white balls from bag B ",2\21,5\21,6\20,5\20,5\21
+"Two bags A and B contain 4 white, 3 black balls and 2 white, 2 black balls respectivsely. From bag A two balls are transferred to bag B. Find the probability of drawing. (i)2 black balls from bag B ",4\21,3\19,4\20,5\21,4\21
+"Two bags A and B contain 4 white, 3 black balls and 2 white, 2 black balls respectively. From bag A two balls are transferred to bag B. Find the probability of drawing. (i) 1 white and 1 black ball from bag B",3\7,2\8,4\7,5\6,4\7
+A coin is tossed again and again until five heads are obtained. Find the probability of obtaining the fifth head in the seventh throw.,15\128,15\120,12\128,11\125,15\128
+70% men and 30% women eat pan massale. 10% of these men and 20% of these women eat X brand. What is the probability that a person seen eating ‘X’ brand will be a man?,4\13,7\13,5\12,4\10,7\13
+" In an engineering college in session 2018-19, 5 % students were suffered from ragging. From a sample of 3 students taken at random of that college, find the probability that: (i) At least one of them suffered from ragging 
+",1141\8000,1000\8000,1240\7965,1141\8250,1141\8000
+"Z = 20x1 + 20x2, subject to x1 ? 0, x2 ? 0, x1 + 2x2 ? 8, 3x1 + 2x2 ? 15, 5x1 + 2x2 ? 20. The minimum value of Z occurs at","(8, 0)","(5\2,15\4)"," (0, 10)","(7\2,9\4)","(7\2,9\4)"
+"Minimize Z = 20x1 + 9x2, subject to x1 ? 0, x2 ? 0, 2x1 + 2x2 ? 36, 6x1 + x2 ? 60","360 at (18, 0)","336 at (6, 4)","540 at (0, 60)","0 at (0, 0)","336 at (6, 4)"
+"The maximum value of f = 4x + 3y subject to constraints x ? 0, y ? 0, 2x + 3y ? 18; x + y ? 10 is",35,36,34,none of these,none of these
+"The minimum value of Z = 4x + 3y subjected to the constraints 3x + 2y ? 160, 5 + 2y ? 200, 2y ? 80; x, y ? 0 is",220,300,230,none of these,220
